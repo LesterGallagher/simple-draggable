@@ -11,6 +11,7 @@ Follow the instructions in [this](https://esstudio.site/2018/11/01/create-dragga
 ### CDN
 
 javascript: https://cdn.jsdelivr.net/gh/LesterGallagher/simple-draggable/draggable.js
+
 css: https://cdn.jsdelivr.net/gh/LesterGallagher/simple-draggable/draggable.css
 
 ## [Live example](https://esstudio.site/simple-draggable/example)
